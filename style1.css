@@ -1,0 +1,30 @@
+.con {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+}
+
+
+.kol1 {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 500px;
+    padding-top: 50px;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: basicaline;
+    text-align: center;
+}
+
+table tr td input [type = text] {
+    width : 80px;
+    height: 40px;
+    border: 1px solid rgb(10, 111, 212);
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px;
+    color: rgb(196, 196, 196);
+}

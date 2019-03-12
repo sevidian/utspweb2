@@ -1,0 +1,17 @@
+step
+1. cd ..
+2. cd ..
+3. cd xampp
+4. cd htdocs
+5. cd okta kurniawan
+6. git init
+7. git status
+8. git add .
+9.git status
+->ubah file yg dipilih
+10.git commit -m"edit.php"
+11.git status
+12.git log --oneline(untuk melihat nomor commit)
+13.git diff nomor commit(untuk melihat item yang diedit)
+14.git checkout (nomor commit) nama file(untuk kembali ke versi awal sebelum diedit) 
+
